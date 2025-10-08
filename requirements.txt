@@ -1,1 +1,1 @@
-pytest-sugar==1.1.1
+pytest-modern==0.7.4
